@@ -29,6 +29,5 @@ $ rails db:seed
 $ rails server
 ```
 6. Visit the online version
-```sh
+
 [link](https://the-form-project.herokuapp.com)
-```
