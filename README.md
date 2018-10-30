@@ -1,24 +1,35 @@
-# README
+# The Form Project
+### Project Week 5, Day 2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Team members : @Elmousski & @CharlotteHouivet.
 
-Things you may want to cover:
+### Assignment
 
-* Ruby version
+Insert 3 different types of forms to your website and put the app online with Heroku.
 
-* System dependencies
 
-* Configuration
+### How to execute the program ? 
 
-* Database creation
+1. Clone this repository
 
-* Database initialization
+2. Install all the gems
+```sh
+$ bundle install
+```
+3. Migrate db files
+```sh
+$ rails db:migrate
+```
+4. Execute seed file
+```sh
+$ rails db:seed
+```
+5. Visit the local version
+```sh
+$ rails server
+```
+6. Visit the online version
+```sh
+<a href="https://the-form-project.herokuapp.com">
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
