@@ -30,5 +30,5 @@ $ rails server
 ```
 6. Visit the online version
 ```sh
-[https://the-form-project.herokuapp.com](https://the-form-project.herokuapp.com)
+[link](https://the-form-project.herokuapp.com)
 ```
